@@ -1,4 +1,4 @@
-# Hi, I'm Lucantus! 👋
+# Hi, I'm Xodaquei! 👋
 
 I am a 17-year-old aspiring Software Developer from Brazil. Currently, I am dedicating my time to building a rock-solid foundation in computer science and software architecture. My main goal is to become a highly proficient Full-Stack Developer and work with global teams.
 
